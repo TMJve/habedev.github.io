@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/TMJve/habedev.github.io/static/css/main.0a900069.css",
+    "main.js": "/TMJve/habedev.github.io/static/js/main.3cae77a9.js",
+    "index.html": "/TMJve/habedev.github.io/index.html",
+    "main.0a900069.css.map": "/TMJve/habedev.github.io/static/css/main.0a900069.css.map",
+    "main.3cae77a9.js.map": "/TMJve/habedev.github.io/static/js/main.3cae77a9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0a900069.css",
+    "static/js/main.3cae77a9.js"
+  ]
+}
